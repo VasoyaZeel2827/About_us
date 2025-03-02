@@ -11,7 +11,7 @@
         <marquee><h1>About Us</h1></marquee>
         
 
-<u>Navrachana University:<br></h2></u>
+<u>Navrachana University:<br></u>
 A Beacon of Holistic Education
 Navrachana University, nestled in the vibrant city of Vadodara, Gujarat, India, is a private university renowned for its commitment to holistic education. Founded with a vision to nurture well-rounded individuals, the university offers a diverse range of undergraduate, postgraduate, and doctoral programs across various disciplines, including engineering, management, design, architecture, law, and liberal arts.
 <br><br> 
