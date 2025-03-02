@@ -77,7 +77,7 @@ Navrachana University is a dynamic and progressive institution that offers a uni
 <br>
 <br>
 I hope this provides a good overview of Navrachana University!
-<h2><marquee>Thank You</h2></marquee>
+<h2>Thank You</h2>
     </b>
     
 </body>
